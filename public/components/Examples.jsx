@@ -9,7 +9,7 @@ var React = require('react');
 
 var Examples = (props) =>{
   return(
-      <h2>examples</h2>
+      <h2>examples !</h2>
   )
 };
 
